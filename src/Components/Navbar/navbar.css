@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content:space-between;
+    padding: 1rem;
+}
+.navbarr{
+    display: flex;
+    gap: 25px;
+    color: rgb(0, 0, 0);
+    font-family: "Poppins",sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    margin-right: 25px;
+}
+
